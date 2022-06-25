@@ -1,7 +1,0 @@
-redash:
-  cookieSecret: RBkCLMvLYI09mHNb6xoFO3gYpzxFyLr3kYPEiHyq0jc=
-  secretKey: C5d9juhS56mfcmNq+5OStO3OJOzJHotMjXQXU/1O+0o=
-postgresql:
-  postgresqlPassword: XyASGYw2j9BzRd4b25T4EsR5T9WSadJFZLXO8obJXdk=
-redis:
-  password: 2mDLju15uu0ynG9cuBd4Bi0DN4M1I2gDAZJIROF7lJc=
